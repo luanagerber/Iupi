@@ -3,6 +3,7 @@
 ## Política de Privacidade do Iupi
 
 **Em vigor a partir de: 5 de junho de 2025**
+
 A privacidade dos seus dados é fundamental para o Iupi. Esta política descreve o uso mínimo de informações em nosso aplicativo.
 O Iupi utiliza informações básicas da sua conta Apple via CloudKit. Isso ocorre exclusivamente para:
 * Estabelecer a conexão entre responsável e filho dentro do aplicativo.

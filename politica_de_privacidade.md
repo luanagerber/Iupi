@@ -1,4 +1,4 @@
-# iupi
+# Iupi
 
 ## Política de Privacidade do iupi
 
